@@ -30,7 +30,7 @@
     "eslint-plugin-vue": "^5.0.0",
     "fstream": ">=1.0.12",
     "mocha": "^6.1.4",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.13.1",
     "sass-loader": "^7.1.0",
     "sinon": "^7.3.2",
     "style-resources-loader": "^1.2.1",
